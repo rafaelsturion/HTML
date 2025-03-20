@@ -1,4 +1,5 @@
-🌐 # Conhecimentos Básicos sobre HTML
+🌐  Conhecimentos Básicos sobre HTML
+
 Bem-vindo(a)! Este repositório contém arquivos que abordam conceitos fundamentais do HTML, servindo como um guia introdutório para aqueles que desejam aprender e dominar a estrutura e os principais elementos da linguagem de marcação.
 
 📌 Conteúdo
